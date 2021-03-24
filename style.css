@@ -6,10 +6,19 @@
 }
 
 header {
-  width: 100%;
+  font-size: 12px;
+  line-height: 16.08px;
+  text-decoration: none solid rgb(28, 30, 33);
+  word-spacing: 0px;
   background-color: rgb(66, 103, 178);
-  border-bottom: 1px solid rgb(19, 55, 131);
-  margin: 0 auto;
+  background-position: 0% 0%;
+  color:  #1C1E21;
+  height: 82px;
+  width: 100%;
+  min-width: 980px;
+  display: block;
+  transform: none;
+  transition: all 0s ease 0s;
 }
 
 main {
@@ -46,8 +55,12 @@ main {
 
 .facebook-logo {
   align-items: flex-start;
-  margin-top: 17px;
+  margin-top: 17px 0 0 0;
   width: 170px;
+  cursor: pointer;
+  background-color: rgb(66, 103, 178)f;
+  background-position: 0px -245px;
+  background-repeat: no-repeat;
 }
 
 .facebook-login {
@@ -158,4 +171,23 @@ main {
   width: 450px;
   word-spacing: -1px;
   line-height: 29px;
+}
+
+#user-email-phone-label {
+  height: 15.4545px;
+  width: 150px;
+  min-width: auto;
+  max-width: auto;
+  cursor: default;
+  box-sizing: border-box;
+}
+
+#esqueceu {
+  background-color: rgb(66, 103, 178);
+  background-position: 0% 0%;
+  color: #9CB4D8;
+  height: auto;
+  width: auto;
+  cursor: pointer;
+
 }
