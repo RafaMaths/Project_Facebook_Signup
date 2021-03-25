@@ -9,10 +9,10 @@ header {
   font-size: 12px;
   line-height: 16.08px;
   text-decoration: none solid rgb(28, 30, 33);
-  word-spacing: 0px;
+  word-spacing: 0;
   background-color: rgb(66, 103, 178);
   background-position: 0% 0%;
-  color:  #1C1E21;
+  color: #1c1e21;
   height: 82px;
   width: 100%;
   min-width: 980px;
@@ -58,8 +58,8 @@ main {
   margin-top: 17px 0 0 0;
   width: 170px;
   cursor: pointer;
-  background-color: rgb(66, 103, 178)f;
-  background-position: 0px -245px;
+  background-color: rgb(66, 103, 178);
+  background-position: 0 -245px;
   background-repeat: no-repeat;
 }
 
@@ -123,16 +123,16 @@ main {
 .right-content {
   width: 300px;
   font-size: 15px;
-  padding: 20px 0 20px 0;
+  padding: 20px 0;
 }
 
 .right-content h1 {
   font-size: 36px;
   font-weight: 700;
   text-decoration: none solid rgb(51, 51, 51);
-  color: #333333;
+  color: #333;
   width: 300px;
-  margin: 0 0 10px 0;
+  margin: 0 0 10px;
 }
 
 #gender-custom {
@@ -168,10 +168,10 @@ main {
 }
 
 #facebook-slogan {
-  color: #0E385F;
+  color: #0e385f;
   font-size: 20px;
   font-weight: 700;
-  margin: 40px 0 0 0;
+  margin: 40px 0 0;
   width: 450px;
   word-spacing: -1px;
   line-height: 29px;
@@ -180,7 +180,7 @@ main {
 }
 
 #user-email-phone-label {
-  height: 15.4545px;
+  height: 15.454px;
   width: 150px;
   min-width: auto;
   max-width: auto;
@@ -191,7 +191,7 @@ main {
 #esqueceu {
   background-color: rgb(66, 103, 178);
   background-position: 0% 0%;
-  color: #9CB4D8;
+  color: #9cb4d8;
   height: auto;
   width: auto;
   cursor: pointer;
